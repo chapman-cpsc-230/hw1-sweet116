@@ -1,8 +1,16 @@
 # Instructions
 
+This assignement is due on Friday Feb 19 at 8:00AM. I will start grading on Friday morning. I suggest you plan to submit the work no later than Thursday evening.
+
 ## This Assignment
 
-For an assignment from the textbook, if the assignment indicates a specific file name, you must name your file exactly as it appears in the textbook. Otherwise, it will fail to be built correctly and will receive no points.
+From the text, do the following exercises:
+
+* 1.3 -- you submit a file named `seconds2years.py`
+* 1.6 -- you submit a file named `interest_rate.py`
+* 1.9 -- you submit a file named `sin2_plus_cos2.py`
+
+You should create these files in the folder for this repo. (If you are using Atom to open this repo, the editor will automatically save new files in the right folder.) Then using GitHub Desktop commit your results (I recommend doing commits at least after completing each exercise). Then sync these to your github repo.
 
 ## General
 
